@@ -1,0 +1,38 @@
+{
+    "UserData":[
+    {
+        "id":1,
+        "name": "Johnwow Doe Smith",
+        "Age": "18",
+        "City": "lahore"
+    },
+    {
+        "id":2,
+        "name": "Peter Erdosi",
+        "gender": "Male",
+        "padob": "Budapest, 1989.03.10",
+        "groups":"Biologist"
+    },
+    {
+        "id":3,
+        "name": "Rebeca Trulli",
+        "gender": "Male",
+        "padob": "Budapest, 1989.22.04",
+        "groups":"Biologist"
+    },
+    {
+        "id":4,
+        "name": "Ted Bundy",
+        "gender": "Male",
+        "padob": "Budapest, 1975.01.28",
+        "groups":"Web Designer,Chemistry Capital"
+    },
+    {
+        "id":5,
+        "name": "Reb Thorton",
+        "gender": "Male",
+        "padob": "Budapest, 1991.01.30",
+        "groups":"Web Desiners"
+    }
+]
+}
